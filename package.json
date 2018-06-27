@@ -1,0 +1,23 @@
+{
+  "name": "read-random-bucket-test",
+  "version": "0.1.0",
+  "description": "Read a random file from a random s3 bucket. For testing logging.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaaromy/read-random-bucket-test.git"
+  },
+  "author": "Jaaromy Zierse",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jaaromy/read-random-bucket-test/issues"
+  },
+  "homepage": "https://github.com/Jaaromy/read-random-bucket-test#readme",
+  "dependencies": {
+    "aws-sdk": "^2.264.1",
+    "bluebird": "^3.5.1"
+  }
+}
